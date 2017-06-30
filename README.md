@@ -9,3 +9,11 @@ Links:
 Questions:
 1. Create an issue with an accurate and detailed description.
 2. Attach the appropriate labels and milestone to the issue.
+
+The folder is organized as follows:
+```
+proj/
+├── Challenge Material/
+├── Weekly Submission of Personal Solutions/
+├── README file/
+```
